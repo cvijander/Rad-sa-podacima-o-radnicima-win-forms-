@@ -1,0 +1,15 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\bin\Debug\baza.mdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\bin\Debug\Podaci o radnicima - opcije.exe.config
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\bin\Debug\Podaci o radnicima - opcije.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\bin\Debug\Podaci o radnicima - opcije.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci o radnicima - opcije.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci o radnicima - opcije.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci_o_radnicima___opcije.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci_o_radnicima___opcije.Form2.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci_o_radnicima___opcije.Properties.Resources.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci o radnicima - opcije.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci o radnicima - opcije.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci o radnicima - opcije.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci o radnicima - opcije.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci_o_radnicima___opcije.Form3.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Podaci o radnicima - opcije\Podaci o radnicima - opcije\obj\Debug\Podaci_o_radnicima___opcije.Form4.resources
